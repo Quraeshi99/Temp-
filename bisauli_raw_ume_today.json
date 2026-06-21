@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-20",
+  "hijri": "4 Muharram 1448H",
+  "hijri_detail": {
+    "day": 4,
+    "month": 1,
+    "month_name": "Muharram",
+    "year": 1448
+  },
+  "timings": {
+    "Fajr": "03:44",
+    "Sunrise": "05:15",
+    "Dhuhr": "12:16",
+    "Asr": "17:06",
+    "Maghrib": "19:17",
+    "Isha": "20:48",
+    "Imsak": "03:43",
+    "Sunset": "19:17",
+    "Midnight": "00:16",
+    "Lastthird": "00:55"
+  },
+  "timezone": "Asia/Kolkata",
+  "meta": {
+    "is_ramadan": false,
+    "jafari_maghrib_applied": false,
+    "fallback_applied": "NONE",
+    "juristic_profile_applied": false,
+    "offsets_applied": {},
+    "mosque_offsets_applied": {}
+  },
+  "routing": {
+    "country_code": "IN",
+    "method_id": "KARACHI",
+    "madhab_id": "HANAFI",
+    "profile_id": null,
+    "macro_zone": "Z03",
+    "solar_zone": "NORMAL",
+    "fallback_applied": "NONE"
+  }
+}

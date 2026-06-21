@@ -1,0 +1,1597 @@
+{
+  "masjid": {
+    "name": "Jama Masjid Bisauli",
+    "city": "Bisauli",
+    "state": "Uttar Pradesh",
+    "country_code": "IN",
+    "latitude": 28.3075,
+    "longitude": 78.9389,
+    "elevation": 192.0
+  },
+  "settings": {
+    "Fajr": "{'azan_offset': 30, 'jamaat_offset': 15, 'fixed': False, 'threshold': 5}",
+    "Dhuhr": "{'azan_fixed': '13:00', 'jamaat_fixed': '13:30', 'fixed': True, 'threshold': 5}",
+    "Asr": "{'azan_offset': 30, 'jamaat_offset': 15, 'fixed': False, 'threshold': 5}",
+    "Maghrib": "{'azan_offset': 3, 'jamaat_offset': 5, 'fixed': False, 'threshold': 0}",
+    "Isha": "{'azan_offset': 45, 'jamaat_offset': 20, 'fixed': False, 'threshold': 5}"
+  },
+  "generated_at": "2026-06-20T01:31:49.791476",
+  "calculation_time_ms": 17.522096633911133,
+  "schedule": [
+    {
+      "date": "2026-06-20",
+      "hijri": "4 Muharram 1448H",
+      "hijri_detail": {
+        "day": 4,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:44",
+          "azan": "04:14",
+          "jamaat": "04:29"
+        },
+        "Dhuhr": {
+          "start": "12:16",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:06",
+          "azan": "17:36",
+          "jamaat": "17:51"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:48",
+          "azan": "21:33",
+          "jamaat": "21:53"
+        },
+        "Sunrise": "05:15",
+        "Imsak": "03:43",
+        "Sunset": "19:17",
+        "Midnight": "00:16",
+        "Lastthird": "00:55"
+      },
+      "raw_timings": {
+        "Fajr": "03:44",
+        "Sunrise": "05:15",
+        "Dhuhr": "12:16",
+        "Asr": "17:06",
+        "Maghrib": "19:17",
+        "Isha": "20:48",
+        "Imsak": "03:43",
+        "Sunset": "19:17",
+        "Midnight": "00:16",
+        "Lastthird": "00:55"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "hijri": "5 Muharram 1448H",
+      "hijri_detail": {
+        "day": 5,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:44",
+          "azan": "04:14",
+          "jamaat": "04:29"
+        },
+        "Dhuhr": {
+          "start": "12:17",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:06",
+          "azan": "17:36",
+          "jamaat": "17:51"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:15",
+        "Imsak": "03:43",
+        "Sunset": "19:17",
+        "Midnight": "00:17",
+        "Lastthird": "00:55"
+      },
+      "raw_timings": {
+        "Fajr": "03:44",
+        "Sunrise": "05:15",
+        "Dhuhr": "12:17",
+        "Asr": "17:06",
+        "Maghrib": "19:17",
+        "Isha": "20:49",
+        "Imsak": "03:43",
+        "Sunset": "19:17",
+        "Midnight": "00:17",
+        "Lastthird": "00:55"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "hijri": "6 Muharram 1448H",
+      "hijri_detail": {
+        "day": 6,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:45",
+          "azan": "04:15",
+          "jamaat": "04:30"
+        },
+        "Dhuhr": {
+          "start": "12:17",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:06",
+          "azan": "17:36",
+          "jamaat": "17:51"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:15",
+        "Imsak": "03:44",
+        "Sunset": "19:17",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "raw_timings": {
+        "Fajr": "03:45",
+        "Sunrise": "05:15",
+        "Dhuhr": "12:17",
+        "Asr": "17:06",
+        "Maghrib": "19:17",
+        "Isha": "20:49",
+        "Imsak": "03:44",
+        "Sunset": "19:17",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "hijri": "7 Muharram 1448H",
+      "hijri_detail": {
+        "day": 7,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:45",
+          "azan": "04:15",
+          "jamaat": "04:30"
+        },
+        "Dhuhr": {
+          "start": "12:17",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:07",
+          "azan": "17:37",
+          "jamaat": "17:52"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:15",
+        "Imsak": "03:44",
+        "Sunset": "19:17",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "raw_timings": {
+        "Fajr": "03:45",
+        "Sunrise": "05:15",
+        "Dhuhr": "12:17",
+        "Asr": "17:07",
+        "Maghrib": "19:17",
+        "Isha": "20:49",
+        "Imsak": "03:44",
+        "Sunset": "19:17",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "hijri": "8 Muharram 1448H",
+      "hijri_detail": {
+        "day": 8,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:45",
+          "azan": "04:15",
+          "jamaat": "04:30"
+        },
+        "Dhuhr": {
+          "start": "12:17",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:07",
+          "azan": "17:37",
+          "jamaat": "17:52"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:16",
+        "Imsak": "03:44",
+        "Sunset": "19:18",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "raw_timings": {
+        "Fajr": "03:45",
+        "Sunrise": "05:16",
+        "Dhuhr": "12:17",
+        "Asr": "17:07",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:44",
+        "Sunset": "19:18",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "hijri": "9 Muharram 1448H",
+      "hijri_detail": {
+        "day": 9,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:45",
+          "azan": "04:15",
+          "jamaat": "04:30"
+        },
+        "Dhuhr": {
+          "start": "12:17",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:07",
+          "azan": "17:37",
+          "jamaat": "17:52"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:16",
+        "Imsak": "03:44",
+        "Sunset": "19:18",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "raw_timings": {
+        "Fajr": "03:45",
+        "Sunrise": "05:16",
+        "Dhuhr": "12:17",
+        "Asr": "17:07",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:44",
+        "Sunset": "19:18",
+        "Midnight": "00:17",
+        "Lastthird": "00:56"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "hijri": "10 Muharram 1448H",
+      "hijri_detail": {
+        "day": 10,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:46",
+          "azan": "04:16",
+          "jamaat": "04:31"
+        },
+        "Dhuhr": {
+          "start": "12:18",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:07",
+          "azan": "17:37",
+          "jamaat": "17:52"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:16",
+        "Imsak": "03:45",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:56"
+      },
+      "raw_timings": {
+        "Fajr": "03:46",
+        "Sunrise": "05:16",
+        "Dhuhr": "12:18",
+        "Asr": "17:07",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:45",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:56"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "hijri": "11 Muharram 1448H",
+      "hijri_detail": {
+        "day": 11,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:46",
+          "azan": "04:16",
+          "jamaat": "04:31"
+        },
+        "Dhuhr": {
+          "start": "12:18",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:07",
+          "azan": "17:37",
+          "jamaat": "17:52"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:17",
+        "Imsak": "03:45",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:57"
+      },
+      "raw_timings": {
+        "Fajr": "03:46",
+        "Sunrise": "05:17",
+        "Dhuhr": "12:18",
+        "Asr": "17:07",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:45",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:57"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "hijri": "12 Muharram 1448H",
+      "hijri_detail": {
+        "day": 12,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:47",
+          "azan": "04:17",
+          "jamaat": "04:32"
+        },
+        "Dhuhr": {
+          "start": "12:18",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:08",
+          "azan": "17:38",
+          "jamaat": "17:53"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:17",
+        "Imsak": "03:46",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:57"
+      },
+      "raw_timings": {
+        "Fajr": "03:47",
+        "Sunrise": "05:17",
+        "Dhuhr": "12:18",
+        "Asr": "17:08",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:46",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:57"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "hijri": "13 Muharram 1448H",
+      "hijri_detail": {
+        "day": 13,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:47",
+          "azan": "04:17",
+          "jamaat": "04:32"
+        },
+        "Dhuhr": {
+          "start": "12:18",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:08",
+          "azan": "17:38",
+          "jamaat": "17:53"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:17",
+        "Imsak": "03:46",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:57"
+      },
+      "raw_timings": {
+        "Fajr": "03:47",
+        "Sunrise": "05:17",
+        "Dhuhr": "12:18",
+        "Asr": "17:08",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:46",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:57"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "hijri": "14 Muharram 1448H",
+      "hijri_detail": {
+        "day": 14,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:47",
+          "azan": "04:17",
+          "jamaat": "04:32"
+        },
+        "Dhuhr": {
+          "start": "12:18",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:08",
+          "azan": "17:38",
+          "jamaat": "17:53"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:18",
+        "Imsak": "03:46",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:58"
+      },
+      "raw_timings": {
+        "Fajr": "03:47",
+        "Sunrise": "05:18",
+        "Dhuhr": "12:18",
+        "Asr": "17:08",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:46",
+        "Sunset": "19:18",
+        "Midnight": "00:18",
+        "Lastthird": "00:58"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "hijri": "15 Muharram 1448H",
+      "hijri_detail": {
+        "day": 15,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:48",
+          "azan": "04:18",
+          "jamaat": "04:33"
+        },
+        "Dhuhr": {
+          "start": "12:19",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:08",
+          "azan": "17:38",
+          "jamaat": "17:53"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:18",
+        "Imsak": "03:47",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:58"
+      },
+      "raw_timings": {
+        "Fajr": "03:48",
+        "Sunrise": "05:18",
+        "Dhuhr": "12:19",
+        "Asr": "17:08",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:47",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:58"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "hijri": "16 Muharram 1448H",
+      "hijri_detail": {
+        "day": 16,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:48",
+          "azan": "04:18",
+          "jamaat": "04:33"
+        },
+        "Dhuhr": {
+          "start": "12:19",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:08",
+          "azan": "17:38",
+          "jamaat": "17:53"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:18",
+        "Imsak": "03:47",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:58"
+      },
+      "raw_timings": {
+        "Fajr": "03:48",
+        "Sunrise": "05:18",
+        "Dhuhr": "12:19",
+        "Asr": "17:08",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:47",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:58"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-03",
+      "hijri": "17 Muharram 1448H",
+      "hijri_detail": {
+        "day": 17,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:49",
+          "azan": "04:19",
+          "jamaat": "04:34"
+        },
+        "Dhuhr": {
+          "start": "12:19",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:08",
+          "azan": "17:38",
+          "jamaat": "17:53"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:19",
+        "Imsak": "03:48",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:59"
+      },
+      "raw_timings": {
+        "Fajr": "03:49",
+        "Sunrise": "05:19",
+        "Dhuhr": "12:19",
+        "Asr": "17:08",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:48",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:59"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "hijri": "18 Muharram 1448H",
+      "hijri_detail": {
+        "day": 18,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:49",
+          "azan": "04:19",
+          "jamaat": "04:34"
+        },
+        "Dhuhr": {
+          "start": "12:19",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:08",
+          "azan": "17:38",
+          "jamaat": "17:53"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:19",
+        "Imsak": "03:48",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:59"
+      },
+      "raw_timings": {
+        "Fajr": "03:49",
+        "Sunrise": "05:19",
+        "Dhuhr": "12:19",
+        "Asr": "17:08",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:48",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:59"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "hijri": "19 Muharram 1448H",
+      "hijri_detail": {
+        "day": 19,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:50",
+          "azan": "04:20",
+          "jamaat": "04:35"
+        },
+        "Dhuhr": {
+          "start": "12:19",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:49",
+          "azan": "21:34",
+          "jamaat": "21:54"
+        },
+        "Sunrise": "05:19",
+        "Imsak": "03:49",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:59"
+      },
+      "raw_timings": {
+        "Fajr": "03:50",
+        "Sunrise": "05:19",
+        "Dhuhr": "12:19",
+        "Asr": "17:09",
+        "Maghrib": "19:18",
+        "Isha": "20:49",
+        "Imsak": "03:49",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "00:59"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "hijri": "20 Muharram 1448H",
+      "hijri_detail": {
+        "day": 20,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:50",
+          "azan": "04:20",
+          "jamaat": "04:35"
+        },
+        "Dhuhr": {
+          "start": "12:19",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:48",
+          "azan": "21:33",
+          "jamaat": "21:53"
+        },
+        "Sunrise": "05:20",
+        "Imsak": "03:49",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "01:00"
+      },
+      "raw_timings": {
+        "Fajr": "03:50",
+        "Sunrise": "05:20",
+        "Dhuhr": "12:19",
+        "Asr": "17:09",
+        "Maghrib": "19:18",
+        "Isha": "20:48",
+        "Imsak": "03:49",
+        "Sunset": "19:18",
+        "Midnight": "00:19",
+        "Lastthird": "01:00"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "hijri": "21 Muharram 1448H",
+      "hijri_detail": {
+        "day": 21,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:51",
+          "azan": "04:21",
+          "jamaat": "04:36"
+        },
+        "Dhuhr": {
+          "start": "12:20",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:48",
+          "azan": "21:33",
+          "jamaat": "21:53"
+        },
+        "Sunrise": "05:20",
+        "Imsak": "03:50",
+        "Sunset": "19:18",
+        "Midnight": "00:20",
+        "Lastthird": "01:00"
+      },
+      "raw_timings": {
+        "Fajr": "03:51",
+        "Sunrise": "05:20",
+        "Dhuhr": "12:20",
+        "Asr": "17:09",
+        "Maghrib": "19:18",
+        "Isha": "20:48",
+        "Imsak": "03:50",
+        "Sunset": "19:18",
+        "Midnight": "00:20",
+        "Lastthird": "01:00"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "hijri": "22 Muharram 1448H",
+      "hijri_detail": {
+        "day": 22,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:51",
+          "azan": "04:21",
+          "jamaat": "04:36"
+        },
+        "Dhuhr": {
+          "start": "12:20",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:18",
+          "azan": "19:21",
+          "jamaat": "19:26"
+        },
+        "Isha": {
+          "start": "20:48",
+          "azan": "21:33",
+          "jamaat": "21:53"
+        },
+        "Sunrise": "05:21",
+        "Imsak": "03:50",
+        "Sunset": "19:18",
+        "Midnight": "00:20",
+        "Lastthird": "01:00"
+      },
+      "raw_timings": {
+        "Fajr": "03:51",
+        "Sunrise": "05:21",
+        "Dhuhr": "12:20",
+        "Asr": "17:09",
+        "Maghrib": "19:18",
+        "Isha": "20:48",
+        "Imsak": "03:50",
+        "Sunset": "19:18",
+        "Midnight": "00:20",
+        "Lastthird": "01:00"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "hijri": "23 Muharram 1448H",
+      "hijri_detail": {
+        "day": 23,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:52",
+          "azan": "04:22",
+          "jamaat": "04:37"
+        },
+        "Dhuhr": {
+          "start": "12:20",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:48",
+          "azan": "21:33",
+          "jamaat": "21:53"
+        },
+        "Sunrise": "05:21",
+        "Imsak": "03:51",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:01"
+      },
+      "raw_timings": {
+        "Fajr": "03:52",
+        "Sunrise": "05:21",
+        "Dhuhr": "12:20",
+        "Asr": "17:09",
+        "Maghrib": "19:17",
+        "Isha": "20:48",
+        "Imsak": "03:51",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:01"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "hijri": "24 Muharram 1448H",
+      "hijri_detail": {
+        "day": 24,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:53",
+          "azan": "04:23",
+          "jamaat": "04:38"
+        },
+        "Dhuhr": {
+          "start": "12:20",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:47",
+          "azan": "21:32",
+          "jamaat": "21:52"
+        },
+        "Sunrise": "05:22",
+        "Imsak": "03:52",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:01"
+      },
+      "raw_timings": {
+        "Fajr": "03:53",
+        "Sunrise": "05:22",
+        "Dhuhr": "12:20",
+        "Asr": "17:09",
+        "Maghrib": "19:17",
+        "Isha": "20:47",
+        "Imsak": "03:52",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:01"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "hijri": "25 Muharram 1448H",
+      "hijri_detail": {
+        "day": 25,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:53",
+          "azan": "04:23",
+          "jamaat": "04:38"
+        },
+        "Dhuhr": {
+          "start": "12:20",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:47",
+          "azan": "21:32",
+          "jamaat": "21:52"
+        },
+        "Sunrise": "05:22",
+        "Imsak": "03:52",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:01"
+      },
+      "raw_timings": {
+        "Fajr": "03:53",
+        "Sunrise": "05:22",
+        "Dhuhr": "12:20",
+        "Asr": "17:09",
+        "Maghrib": "19:17",
+        "Isha": "20:47",
+        "Imsak": "03:52",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:01"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "hijri": "26 Muharram 1448H",
+      "hijri_detail": {
+        "day": 26,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:54",
+          "azan": "04:24",
+          "jamaat": "04:39"
+        },
+        "Dhuhr": {
+          "start": "12:20",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:46",
+          "azan": "21:31",
+          "jamaat": "21:51"
+        },
+        "Sunrise": "05:23",
+        "Imsak": "03:53",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:02"
+      },
+      "raw_timings": {
+        "Fajr": "03:54",
+        "Sunrise": "05:23",
+        "Dhuhr": "12:20",
+        "Asr": "17:09",
+        "Maghrib": "19:17",
+        "Isha": "20:46",
+        "Imsak": "03:53",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:02"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "hijri": "27 Muharram 1448H",
+      "hijri_detail": {
+        "day": 27,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:55",
+          "azan": "04:25",
+          "jamaat": "04:40"
+        },
+        "Dhuhr": {
+          "start": "12:21",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:17",
+          "azan": "19:20",
+          "jamaat": "19:25"
+        },
+        "Isha": {
+          "start": "20:46",
+          "azan": "21:31",
+          "jamaat": "21:51"
+        },
+        "Sunrise": "05:23",
+        "Imsak": "03:54",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:02"
+      },
+      "raw_timings": {
+        "Fajr": "03:55",
+        "Sunrise": "05:23",
+        "Dhuhr": "12:21",
+        "Asr": "17:09",
+        "Maghrib": "19:17",
+        "Isha": "20:46",
+        "Imsak": "03:54",
+        "Sunset": "19:17",
+        "Midnight": "00:20",
+        "Lastthird": "01:02"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "hijri": "28 Muharram 1448H",
+      "hijri_detail": {
+        "day": 28,
+        "month": 1,
+        "month_name": "Muharram",
+        "year": 1448
+      },
+      "schedule": {
+        "Fajr": {
+          "start": "03:55",
+          "azan": "04:25",
+          "jamaat": "04:40"
+        },
+        "Dhuhr": {
+          "start": "12:21",
+          "azan": "13:00",
+          "jamaat": "13:30"
+        },
+        "Asr": {
+          "start": "17:09",
+          "azan": "17:39",
+          "jamaat": "17:54"
+        },
+        "Maghrib": {
+          "start": "19:16",
+          "azan": "19:19",
+          "jamaat": "19:24"
+        },
+        "Isha": {
+          "start": "20:45",
+          "azan": "21:30",
+          "jamaat": "21:50"
+        },
+        "Sunrise": "05:24",
+        "Imsak": "03:54",
+        "Sunset": "19:16",
+        "Midnight": "00:21",
+        "Lastthird": "01:02"
+      },
+      "raw_timings": {
+        "Fajr": "03:55",
+        "Sunrise": "05:24",
+        "Dhuhr": "12:21",
+        "Asr": "17:09",
+        "Maghrib": "19:16",
+        "Isha": "20:45",
+        "Imsak": "03:54",
+        "Sunset": "19:16",
+        "Midnight": "00:21",
+        "Lastthird": "01:02"
+      },
+      "routing": {
+        "country_code": "IN",
+        "method_id": "KARACHI",
+        "madhab_id": "HANAFI",
+        "profile_id": null,
+        "macro_zone": "Z03",
+        "solar_zone": "NORMAL",
+        "fallback_applied": "NONE"
+      }
+    }
+  ]
+}
