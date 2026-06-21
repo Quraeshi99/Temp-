@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+    <distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+    <operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+    <expiration>2026-06-11T14:14:07-07:00</expiration>
+    <transaction>ge:af30ca27-ec59-cae4-5d9a-e8067d298aac:1781211547892488</transaction>
+    <userId>00600109661943731123</userId>
+    <resourceItemInfo>
+        <resource>urn:uuid:af30ca27-ec59-cae4-5d9a-e8067d298aac</resource>
+        <resourceItem>1</resourceItem>
+        <src>https://books.google.com/books/download/Quran_Kanzul_Iman_in_Roman_Urdu_with_Taf.pdf?acsid=urn:uuid:af30ca27-ec59-cae4-5d9a-e8067d298aac&amp;output=acs4_book_bytes&amp;ar=1f76cd765824d74d385de69ac1cd3568</src>
+        <downloadType>simple</downloadType>
+    </resourceItemInfo>
+    <hmac>3Lve8DyfuBwL9h04PyBNhhLnJ8M=</hmac>
+</fulfillmentToken>
